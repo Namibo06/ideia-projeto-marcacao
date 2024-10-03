@@ -60,7 +60,7 @@
 
 ### Gastos
 - ##### Compra do Domínio : R$59.90 (1 ano de graça)
-- ##### Plano da Hopedagem Hostinger Premium: 13.94 reais por mês durante 1 ano ( 45.99 reais quando renovar), podem escolher outro plano este está como base, dando 2 reais praticamente por mês para cada pessoa da equipe.
+- ##### Plano da Hopedagem Hostinger Premium: R$13.94 por mês durante 1 ano ( R$45.99 quando renovar), podem escolher outro plano este está como base, dando R$2 praticamente por mês para cada pessoa da equipe.
 
 -----------------------
 
