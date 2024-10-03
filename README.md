@@ -8,7 +8,7 @@
 
 -----------------------
 
-### O que fazer e atrasar e perder meu lugar na ficha?
+### O que fazer se atrasar e perder meu lugar na ficha?
 - ###### Ficará a vontade de cada estabelecimento, mas o padrão será por exemplo, a pessoa tem a ficha 1, porém não chegou, caso a ficha 2 e 3 passem na frente, e a ficha 1 chegar, não sera a ficha 4 que irá entrar mas a ficha 1.
 
 -----------------------
